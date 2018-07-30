@@ -11,7 +11,6 @@
 		<created>2011-04-04T13:58:47.183927</created>
 		<modified>2011-04-04T13:58:47.183946</modified>
 		<unit meter="1.0" name="meter"/>
-		<up_axis>Z_UP</up_axis>
 	</asset>
 	<library_effects>
 		<effect id="create_tga-fx" name="create_tga-fx">
@@ -65,7 +64,7 @@
 	</library_effects>
 	<library_images>
 		<image id="create_tga-img" name="create_tga-img">
-			<init_from>create_body.tga</init_from>
+			<init_from>create_1.tga</init_from>
 		</image>
 	</library_images>
 	<library_materials>
